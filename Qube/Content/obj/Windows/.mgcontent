@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>e:/visual studio/Project/Qube/Qube/Content/Textures/Background.png</File>
+    <File>e:/visual studio/Project/Qube/Qube/Content/Textures/QubeBase.png</File>
+    <File>e:/visual studio/Project/Qube/Qube/Content/Fonts/Pericle.spritefont</File>
+    <File>e:/visual studio/Project/Qube/Qube/Content/Textures/Character.png</File>
+    <File>e:/visual studio/Project/Qube/Qube/Content/Fonts/Clear.spritefont</File>
+    <File>e:/visual studio/Project/Qube/Qube/Content/Textures/Air.png</File>
+  </SourceFiles>
+</SourceFileCollection>
